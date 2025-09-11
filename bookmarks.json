@@ -1,6 +1,677 @@
 {
   "bookmarks": {
-    "folders": {},
+    "folders": {
+      "folder_import_1757620515809_496": {
+        "name": "搜索引擎",
+        "items": []
+      },
+      "folder_import_1757620515809_131": {
+        "name": "搜索引擎",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_839",
+            "title": "Google",
+            "url": "https://www.google.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_175",
+            "title": "百度",
+            "url": "https://www.baidu.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_808",
+            "title": "Bing",
+            "url": "https://www.bing.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_109",
+            "title": "必应（中国）",
+            "url": "https://cn.bing.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_303",
+            "title": "搜狗",
+            "url": "https://www.sogou.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_574",
+            "title": "360搜索",
+            "url": "https://www.360.cn"
+          }
+        ]
+      },
+      "folder_import_1757620515809_57": {
+        "name": "社交媒体",
+        "items": []
+      },
+      "folder_import_1757620515809_846": {
+        "name": "社交媒体",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_699",
+            "title": "微博",
+            "url": "https://www.weibo.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_275",
+            "title": "腾讯QQ",
+            "url": "https://www.qq.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_983",
+            "title": "微信网页版",
+            "url": "https://wx.qq.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_482",
+            "title": "豆瓣",
+            "url": "https://www.douban.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_209",
+            "title": "知乎",
+            "url": "https://www.zhihu.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_663",
+            "title": "TikTok",
+            "url": "https://www.tiktok.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_598",
+            "title": "小红书",
+            "url": "https://www.xiaohongshu.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_45",
+            "title": "快手",
+            "url": "https://www.kuaishou.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_915",
+            "title": "Facebook",
+            "url": "https://www.facebook.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_784",
+            "title": "Twitter",
+            "url": "https://www.twitter.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_314",
+            "title": "LinkedIn",
+            "url": "https://www.linkedin.com"
+          }
+        ]
+      },
+      "folder_import_1757620515809_598": {
+        "name": "视频网站",
+        "items": []
+      },
+      "folder_import_1757620515809_422": {
+        "name": "视频网站",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_141",
+            "title": "YouTube",
+            "url": "https://www.youtube.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_96",
+            "title": "哔哩哔哩",
+            "url": "https://www.bilibili.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_735",
+            "title": "优酷",
+            "url": "https://www.youku.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_315",
+            "title": "爱奇艺",
+            "url": "https://www.iqiyi.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_26",
+            "title": "腾讯视频",
+            "url": "https://v.qq.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_952",
+            "title": "芒果TV",
+            "url": "https://www.mgtv.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_297",
+            "title": "央视网",
+            "url": "https://tv.cctv.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_297",
+            "title": "Netflix",
+            "url": "https://www.netflix.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_569",
+            "title": "Disney+",
+            "url": "https://www.disneyplus.com"
+          }
+        ]
+      },
+      "folder_import_1757620515809_521": {
+        "name": "音乐网站",
+        "items": []
+      },
+      "folder_import_1757620515809_221": {
+        "name": "音乐网站",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_165",
+            "title": "网易云音乐",
+            "url": "https://music.163.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_138",
+            "title": "QQ音乐",
+            "url": "https://y.qq.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_765",
+            "title": "Apple Music",
+            "url": "https://music.apple.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_465",
+            "title": "虾米音乐",
+            "url": "https://www.xiami.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_485",
+            "title": "酷狗音乐",
+            "url": "https://www.kugou.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_794",
+            "title": "酷我音乐",
+            "url": "https://www.kuwo.cn"
+          },
+          {
+            "id": "bookmark_import_1757620515809_391",
+            "title": "Spotify",
+            "url": "https://open.spotify.com"
+          }
+        ]
+      },
+      "folder_import_1757620515809_975": {
+        "name": "新闻资讯",
+        "items": []
+      },
+      "folder_import_1757620515809_929": {
+        "name": "新闻资讯",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_246",
+            "title": "百度新闻",
+            "url": "https://www.baidu.com/s?tn=news"
+          },
+          {
+            "id": "bookmark_import_1757620515809_680",
+            "title": "新浪新闻",
+            "url": "https://news.sina.com.cn"
+          },
+          {
+            "id": "bookmark_import_1757620515809_812",
+            "title": "腾讯新闻",
+            "url": "https://news.qq.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_951",
+            "title": "搜狐新闻",
+            "url": "https://www.sohu.com/news"
+          },
+          {
+            "id": "bookmark_import_1757620515809_788",
+            "title": "网易新闻",
+            "url": "https://news.163.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_140",
+            "title": "澎湃新闻",
+            "url": "https://www.thepaper.cn"
+          },
+          {
+            "id": "bookmark_import_1757620515809_769",
+            "title": "观察者网",
+            "url": "https://www.guancha.cn"
+          },
+          {
+            "id": "bookmark_import_1757620515809_313",
+            "title": "BBC News",
+            "url": "https://www.bbc.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_266",
+            "title": "CNN",
+            "url": "https://www.cnn.com"
+          }
+        ]
+      },
+      "folder_import_1757620515809_299": {
+        "name": "邮箱",
+        "items": []
+      },
+      "folder_import_1757620515809_272": {
+        "name": "邮箱",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_42",
+            "title": "QQ邮箱",
+            "url": "https://mail.qq.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_834",
+            "title": "网易邮箱",
+            "url": "https://mail.163.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_531",
+            "title": "126邮箱",
+            "url": "https://mail.126.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_636",
+            "title": "搜狐邮箱",
+            "url": "https://mail.sohu.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_818",
+            "title": "新浪邮箱",
+            "url": "https://mail.sina.com.cn"
+          },
+          {
+            "id": "bookmark_import_1757620515809_733",
+            "title": "Gmail",
+            "url": "https://gmail.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_353",
+            "title": "Outlook",
+            "url": "https://outlook.live.com"
+          }
+        ]
+      },
+      "folder_import_1757620515809_164": {
+        "name": "云存储",
+        "items": []
+      },
+      "folder_import_1757620515809_466": {
+        "name": "云存储",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_328",
+            "title": "百度网盘",
+            "url": "https://pan.baidu.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_648",
+            "title": "阿里云盘",
+            "url": "https://www.aliyundrive.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_621",
+            "title": "Google Drive",
+            "url": "https://drive.google.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_191",
+            "title": "Dropbox",
+            "url": "https://www.dropbox.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_232",
+            "title": "OneDrive",
+            "url": "https://onedrive.live.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_194",
+            "title": "奶牛快传",
+            "url": "https://c-t.work"
+          }
+        ]
+      },
+      "folder_import_1757620515809_992": {
+        "name": "购物网站",
+        "items": []
+      },
+      "folder_import_1757620515809_795": {
+        "name": "购物网站",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_886",
+            "title": "淘宝",
+            "url": "https://www.taobao.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_985",
+            "title": "天猫",
+            "url": "https://www.tmall.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_997",
+            "title": "京东",
+            "url": "https://www.jd.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_909",
+            "title": "拼多多",
+            "url": "https://www.pinduoduo.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_20",
+            "title": "苏宁易购",
+            "url": "https://www.suning.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_507",
+            "title": "唯品会",
+            "url": "https://www.vip.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_669",
+            "title": "亚马逊中国",
+            "url": "https://www.amazon.cn"
+          },
+          {
+            "id": "bookmark_import_1757620515809_485",
+            "title": "Amazon",
+            "url": "https://www.amazon.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_280",
+            "title": "eBay",
+            "url": "https://www.ebay.com"
+          }
+        ]
+      },
+      "folder_import_1757620515809_533": {
+        "name": "外卖美食",
+        "items": []
+      },
+      "folder_import_1757620515809_928": {
+        "name": "外卖美食",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_276",
+            "title": "饿了么",
+            "url": "https://h5.ele.me"
+          },
+          {
+            "id": "bookmark_import_1757620515809_48",
+            "title": "美团外卖",
+            "url": "https://h5.waimai.meituan.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_836",
+            "title": "饿了么（网页版）",
+            "url": "https://www.ele.me"
+          },
+          {
+            "id": "bookmark_import_1757620515809_140",
+            "title": "美团外卖（网页版）",
+            "url": "https://waimai.meituan.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_237",
+            "title": "快递100",
+            "url": "https://www.kuaidi100.com"
+          }
+        ]
+      },
+      "folder_import_1757620515809_763": {
+        "name": "个人常用",
+        "items": []
+      },
+      "folder_import_1757620515809_231": {
+        "name": "出行服务",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_446",
+            "title": "12306铁路客户服务",
+            "url": "https://www.12306.cn"
+          },
+          {
+            "id": "bookmark_import_1757620515809_339",
+            "title": "携程机票",
+            "url": "https://flights.ctrip.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_467",
+            "title": "携程酒店",
+            "url": "https://hotel.ctrip.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_235",
+            "title": "去哪儿旅行",
+            "url": "https://www.ly.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_795",
+            "title": "高德地图",
+            "url": "https://ditu.amap.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_138",
+            "title": "百度地图",
+            "url": "https://map.baidu.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_450",
+            "title": "滴滴出行",
+            "url": "https://www.didi.com"
+          }
+        ]
+      },
+      "folder_import_1757620515809_773": {
+        "name": "工具网站",
+        "items": []
+      },
+      "folder_import_1757620515809_719": {
+        "name": "工具网站",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_432",
+            "title": "站长工具",
+            "url": "https://tool.chinaz.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_826",
+            "title": "17CE网络质量检测",
+            "url": "https://www.17ce.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_320",
+            "title": "在线工具网",
+            "url": "https://www.bejson.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_510",
+            "title": "Convertio文件转换",
+            "url": "https://www.convertio.co/zh/"
+          },
+          {
+            "id": "bookmark_import_1757620515809_982",
+            "title": "在线转换工具",
+            "url": "https://www.online-convert.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_170",
+            "title": "YouTube字幕提取",
+            "url": "https://zh-cn.everything.search/youtube"
+          },
+          {
+            "id": "bookmark_import_1757620515809_512",
+            "title": "网速测试",
+            "url": "https://www.fast.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_236",
+            "title": "时间日期",
+            "url": "https://www.timeanddate.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_232",
+            "title": "IP查询",
+            "url": "https://www.ipip.net"
+          }
+        ]
+      },
+      "folder_import_1757620515809_957": {
+        "name": "开发者资源",
+        "items": []
+      },
+      "folder_import_1757620515809_951": {
+        "name": "开发者资源",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_340",
+            "title": "GitHub",
+            "url": "https://github.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_298",
+            "title": "Gitee",
+            "url": "https://gitee.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_181",
+            "title": "NPM",
+            "url": "https://www.npmjs.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_776",
+            "title": "MDN Web Docs",
+            "url": "https://developer.mozilla.org"
+          },
+          {
+            "id": "bookmark_import_1757620515809_739",
+            "title": "W3Schools",
+            "url": "https://www.w3schools.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_591",
+            "title": "Stack Overflow",
+            "url": "https://stackoverflow.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_186",
+            "title": "Can I use",
+            "url": "https://caniuse.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_604",
+            "title": "CodeSandbox",
+            "url": "https://codesandbox.io"
+          },
+          {
+            "id": "bookmark_import_1757620515809_493",
+            "title": "JSFiddle",
+            "url": "https://jsfiddle.net"
+          }
+        ]
+      },
+      "folder_import_1757620515809_236": {
+        "name": "在线学习",
+        "items": []
+      },
+      "folder_import_1757620515809_866": {
+        "name": "在线学习",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_44",
+            "title": "Coursera",
+            "url": "https://www.coursera.org"
+          },
+          {
+            "id": "bookmark_import_1757620515809_244",
+            "title": "edX",
+            "url": "https://www.edx.org"
+          },
+          {
+            "id": "bookmark_import_1757620515809_950",
+            "title": "Udemy",
+            "url": "https://www.udemy.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_746",
+            "title": "学堂在线",
+            "url": "https://www.xuetangx.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_799",
+            "title": "中国大学MOOC",
+            "url": "https://www.icourse163.org"
+          },
+          {
+            "id": "bookmark_import_1757620515809_527",
+            "title": "B站学习区",
+            "url": "https://www.bilibili.com/video"
+          },
+          {
+            "id": "bookmark_import_1757620515809_587",
+            "title": "慕课网",
+            "url": "https://www.imooc.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_381",
+            "title": "蓝桥云课",
+            "url": "https://www.lanqiao.cn"
+          }
+        ]
+      },
+      "folder_import_1757620515809_30": {
+        "name": "AI工具",
+        "items": []
+      },
+      "folder_import_1757620515809_1": {
+        "name": "AI工具",
+        "items": [
+          {
+            "id": "bookmark_import_1757620515809_418",
+            "title": "OpenAI",
+            "url": "https://openai.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_997",
+            "title": "ChatGPT",
+            "url": "https://chatgpt.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_19",
+            "title": "Gemini",
+            "url": "https://gemini.google.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_966",
+            "title": "Claude",
+            "url": "https://claude.ai"
+          },
+          {
+            "id": "bookmark_import_1757620515809_729",
+            "title": "Midjourney",
+            "url": "https://www.midjourney.com"
+          },
+          {
+            "id": "bookmark_import_1757620515809_563",
+            "title": "Microsoft Copilot",
+            "url": "https://copilot.microsoft.com"
+          }
+        ]
+      },
+      "folder_import_1757620515809_546": {
+        "name": "个人常用",
+        "items": []
+      }
+    },
     "quickAccess": []
   },
   "cities": [
