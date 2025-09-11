@@ -1,0 +1,5 @@
+sensitive_data/
+*.zip
+*.tar.gz
+*.rar
+*.7z
